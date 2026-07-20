@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="中国独立开发者项目探索目录" />
+    <meta id="theme-color" name="theme-color" content="#f5f5f7" />
+    <title>独立发现</title>
+    <link rel="preconnect" href="https://github.com" />
+    <link rel="preconnect" href="https://unpkg.com" crossorigin />
+    <link rel="stylesheet" href="styles.css?v=23" />
+    <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js" defer></script>
+    <script src="https://unpkg.com/lenis@1.3.11/dist/lenis.min.js" defer></script>
+    <script src="app.js?v=19" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">跳到项目列表</a>
+    <header class="app-header">
+      <a class="brand" href="#" aria-label="独立发现首页">
+        <span class="brand-mark" aria-hidden="true">独</span>
+        <span class="brand-copy">
+          <strong>独立发现</strong>
+          <small>INDIE INDEX</small>
+        </span>
+      </a>
+
+      <label class="search-box" for="search-input">
+        <i data-lucide="search" aria-hidden="true"></i>
+        <input id="search-input" name="project-search" type="search" placeholder="搜索产品、作者或介绍" autocomplete="off" />
+        <button id="clear-search" class="icon-button search-clear" type="button" aria-label="清空搜索" title="清空搜索">
+          <i data-lucide="x" aria-hidden="true"></i>
+        </button>
+      </label>
+
+      <div class="header-actions">
+        <button id="random-button" class="action-button" type="button">
+          <i data-lucide="shuffle" aria-hidden="true"></i>
+          <span>随便看看</span>
+        </button>
+        <button id="theme-button" class="icon-button" type="button" aria-label="切换主题" title="切换主题">
+          <i data-lucide="moon" aria-hidden="true"></i>
+        </button>
+      </div>
+    </header>
+
+    <main id="main-content" class="app-shell">
+      <aside id="filter-panel" class="filter-panel" aria-label="项目筛选" data-lenis-prevent>
+        <div class="mobile-panel-head">
+          <strong>筛选项目</strong>
+          <button id="close-filters" class="icon-button" type="button" aria-label="关闭筛选" title="关闭筛选">
+            <i data-lucide="x" aria-hidden="true"></i>
+          </button>
+        </div>
+
+        <section class="filter-section">
+          <h2>项目状态</h2>
+          <div id="status-filters" class="status-filters">
+            <button class="filter-option active" type="button" data-status="all">
+              <span><i data-lucide="layout-grid" aria-hidden="true"></i>全部项目</span>
+              <b id="count-all">0</b>
+            </button>
+            <button class="filter-option" type="button" data-status="online">
+              <span><i data-lucide="circle-check" aria-hidden="true"></i>已上线</span>
+              <b id="count-online">0</b>
+            </button>
+            <button class="filter-option" type="button" data-status="developing">
+              <span><i data-lucide="clock-3" aria-hidden="true"></i>开发中</span>
+              <b id="count-developing">0</b>
+            </button>
+            <button class="filter-option" type="button" data-status="closed">
+              <span><i data-lucide="archive" aria-hidden="true"></i>已关闭</span>
+              <b id="count-closed">0</b>
+            </button>
+            <button class="filter-option" type="button" data-status="favorite">
+              <span><i data-lucide="bookmark" aria-hidden="true"></i>我的收藏</span>
+              <b id="count-favorite">0</b>
+            </button>
+          </div>
+        </section>
+
+        <section class="filter-section">
+          <label for="city-select">开发者城市</label>
+          <div class="select-wrap">
+            <i data-lucide="map-pin" aria-hidden="true"></i>
+            <select id="city-select">
+              <option value="all">全部城市</option>
+            </select>
+            <i data-lucide="chevron-down" aria-hidden="true"></i>
+          </div>
+        </section>
+
+        <section class="filter-section source-block">
+          <div class="source-head">
+            <span class="source-icon"><i data-lucide="github" aria-hidden="true"></i></span>
+            <div>
+              <strong id="source-count">数据仓库</strong>
+              <span>聚合来源</span>
+            </div>
+          </div>
+          <div id="source-links" class="source-links"></div>
+        </section>
+      </aside>
+
+      <div id="filter-backdrop" class="filter-backdrop"></div>
+
+      <section class="content-area" aria-labelledby="result-title">
+        <div class="overview-strip">
+          <div class="overview-primary">
+            <span>独立作品目录</span>
+            <strong id="total-stat">0</strong>
+          </div>
+          <div class="overview-stat">
+            <span class="stat-dot online"></span>
+            <span><b id="online-stat">0</b> 已上线</span>
+          </div>
+          <div class="overview-stat">
+            <span class="stat-dot city"></span>
+            <span><b id="city-stat">0</b> 座城市</span>
+          </div>
+          <div class="overview-note" id="update-label">正在载入数据</div>
+        </div>
+
+        <div class="result-toolbar">
+          <div class="result-heading">
+            <button id="open-filters" class="icon-button mobile-filter-button" type="button" aria-label="打开筛选" title="打开筛选">
+              <i data-lucide="sliders-horizontal" aria-hidden="true"></i>
+            </button>
+            <div>
+              <h1 id="result-title">全部项目</h1>
+              <p><span id="result-count">0</span> 个结果</p>
+            </div>
+          </div>
+
+          <div class="toolbar-controls">
+            <label class="sort-control" for="sort-select">
+              <span>排序</span>
+              <select id="sort-select">
+                <option value="newest">最近收录</option>
+                <option value="name">名称 A–Z</option>
+                <option value="city">城市</option>
+              </select>
+            </label>
+            <div class="view-switch" aria-label="显示方式">
+              <button class="active" type="button" data-view="grid" aria-label="网格视图" title="网格视图">
+                <i data-lucide="grid-2x2" aria-hidden="true"></i>
+              </button>
+              <button type="button" data-view="list" aria-label="列表视图" title="列表视图">
+                <i data-lucide="list" aria-hidden="true"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div id="active-filters" class="active-filters" aria-live="polite"></div>
+        <div id="project-grid" class="project-grid" aria-live="polite"></div>
+
+        <div id="empty-state" class="empty-state" hidden>
+          <span><i data-lucide="search-x" aria-hidden="true"></i></span>
+          <h2>没有找到项目</h2>
+          <p>换个关键词或清除筛选条件</p>
+          <button id="reset-button" class="action-button" type="button">清除筛选</button>
+        </div>
+
+        <div class="load-more-wrap">
+          <button id="load-more" class="load-more" type="button">
+            <span>加载更多</span>
+            <i data-lucide="chevron-down" aria-hidden="true"></i>
+          </button>
+        </div>
+      </section>
+    </main>
+
+    <div id="drawer-backdrop" class="drawer-backdrop"></div>
+    <aside id="detail-drawer" class="detail-drawer" role="dialog" aria-modal="true" aria-label="项目详情" aria-hidden="true" data-lenis-prevent>
+      <button id="close-drawer" class="icon-button drawer-close" type="button" aria-label="关闭详情" title="关闭详情">
+        <i data-lucide="x" aria-hidden="true"></i>
+      </button>
+      <div id="drawer-content"></div>
+    </aside>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>

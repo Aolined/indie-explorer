@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1c7/chinese-independent-developer",
+    "name": "1c7 / CID",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "license": "未声明",
+    "parsed_count": 1769,
+    "contributed_count": 1769,
+    "duplicate_count": 0
+  },
+  {
+    "id": "DevEloLin/chinese-indie-vibe-coding",
+    "name": "Vibe Coding 作品集",
+    "url": "https://github.com/DevEloLin/chinese-indie-vibe-coding",
+    "license": "CC0-1.0",
+    "parsed_count": 3,
+    "contributed_count": 1,
+    "duplicate_count": 2
+  },
+  {
+    "id": "XiaomingX/1000-chinese-independent-developer-plus",
+    "name": "独立项目精选",
+    "url": "https://github.com/XiaomingX/1000-chinese-independent-developer-plus",
+    "license": "Apache-2.0",
+    "parsed_count": 46,
+    "contributed_count": 3,
+    "duplicate_count": 43
+  }
+]
