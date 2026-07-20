@@ -1,4 +1,4 @@
-"""Serve Indie Explorer and refresh its catalog on a fixed interval."""
+"""Serve Maker Constellation and refresh its catalog on a fixed interval."""
 
 from __future__ import annotations
 
@@ -32,7 +32,7 @@ def update_loop(interval_seconds: float, stop_event: Event) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Serve and automatically update Indie Explorer")
+    parser = argparse.ArgumentParser(description="Serve and automatically update Maker Constellation")
     parser.add_argument("--port", type=int, default=4173, help="HTTP server port")
     parser.add_argument(
         "--interval-hours",
@@ -67,7 +67,7 @@ def main() -> None:
     handler = partial(SimpleHTTPRequestHandler, directory=str(PROJECT_ROOT))
     server = ThreadingHTTPServer(("", args.port), handler)
     print(
-        f"Serving Indie Explorer at http://localhost:{args.port} "
+        f"Serving Maker Constellation at http://localhost:{args.port} "
         f"(updates every {args.interval_hours:g} hours)"
     )
     try:

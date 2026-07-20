@@ -188,21 +188,18 @@ select:disabled {
 }
 
 .brand-mark {
-  display: grid;
-  width: 44px;
-  height: 44px;
-  place-items: center;
+  display: block;
+  width: 48px;
+  height: 48px;
+  flex: 0 0 48px;
   border: 0;
   border-radius: 8px;
-  background: var(--brand);
-  color: var(--brand-ink);
-  font-size: 20px;
-  font-weight: 800;
-  transition: transform 180ms var(--ease-out), background 180ms ease;
+  background: black;
+  object-fit: cover;
+  transition: transform 180ms var(--ease-out);
 }
 
 .brand:hover .brand-mark {
-  background: var(--brand-strong);
   transform: translateY(-1px) rotate(-3deg);
 }
 
@@ -227,7 +224,7 @@ select:disabled {
 .brand-copy small {
   margin-top: 4px;
   color: var(--ink-muted);
-  font-size: 10px;
+  font-size: 9px;
   font-weight: 800;
 }
 

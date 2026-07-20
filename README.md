@@ -1,6 +1,8 @@
-# Indie Explorer Practice
+# 作品星图 (Maker Constellation)
 
-这是一个聚合中文独立开发者作品的前端练习项目。目前收录以下开源仓库：
+<img src="assets/maker-constellation-logo.png" alt="作品星图 Maker Constellation" width="320" />
+
+作品星图是一个聚合中文独立开发者作品的发现目录。目前收录以下开源仓库：
 
 在线访问：<https://aolined.github.io/indie-explorer/>
 
