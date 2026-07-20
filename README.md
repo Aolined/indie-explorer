@@ -2,6 +2,8 @@
 
 这是一个聚合中文独立开发者作品的前端练习项目。目前收录以下开源仓库：
 
+在线访问：<https://aolined.github.io/indie-explorer/>
+
 - [`1c7/chinese-independent-developer`](https://github.com/1c7/chinese-independent-developer)
 - [`DevEloLin/chinese-indie-vibe-coding`](https://github.com/DevEloLin/chinese-indie-vibe-coding)
 - [`XiaomingX/1000-chinese-independent-developer-plus`](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
