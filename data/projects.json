@@ -1,5 +1,19 @@
 [
   {
+    "author": "wisemonkey1990",
+    "city": null,
+    "github": "https://github.com/wisemonkey1990",
+    "blog": null,
+    "website": null,
+    "name": "诗经阅读",
+    "url": "https://song-of-books.github.io/",
+    "description": "305 首《诗经》全文阅读，含注释、译文、拼音标注和古风宣纸体验，支持收藏与搜索 - [GitHub 仓库](https://github.com/song-of-books/song-of-books.github.io)",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "cobola",
     "city": null,
     "github": "https://github.com/cobola",
@@ -147,7 +161,7 @@
     "website": null,
     "name": "Lumi & Friends iOS App Finder",
     "url": "https://alice51849.github.io/ios-app-guide/zh-Hans/tools/private-pay-once-iphone-app-finder.html",
-    "description": "按用途、隐私和付费方式查找 28 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域",
+    "description": "按用途、隐私和付费方式查找 29 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域",
     "status": "online",
     "more_info": null,
     "source": "1c7/chinese-independent-developer",
