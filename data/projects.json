@@ -1,5 +1,47 @@
 [
   {
+    "author": "cocodot2026",
+    "city": null,
+    "github": "https://github.com/cocodot2026",
+    "blog": null,
+    "website": null,
+    "name": "cocodot LLM 降智检测",
+    "url": "https://probe.cocodot.co",
+    "description": "免费的 LLM API「降智/偷换模型」在线检测：填入任意 OpenAI 兼容端点的 base_url 和临时 API Key，跑 6 项探针（模型声明、动态题、能力完整性等）生成分项报告；Key 仅用于当次检测、不落库不留存，检测方法[开源](https://github.com/cocodot2026/cocodot-llmprobe)",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "KKWANG4444",
+    "city": null,
+    "github": "https://github.com/KKWANG4444",
+    "blog": null,
+    "website": null,
+    "name": "AI快站模型质量检测",
+    "url": "https://docs.aifast.club/model-check/",
+    "description": "面向 OpenAI Compatible 接口的网页检测工具，输入公开 HTTPS 地址和临时 API Key，可检查模型声明、Token、动态题、SSE 与工具调用并生成分项报告；密钥仅用于当次检测，不写入数据库、缓存或日志",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "ky3",
+    "city": null,
+    "github": "https://github.com/ky3-studio",
+    "blog": null,
+    "website": null,
+    "name": "ky3 Launcher",
+    "url": "https://github.com/ky3-studio/ky3-Launcher",
+    "description": "原神第三方开源启动器，集游戏启动、抽卡记录分析、成就管理、养成规划于一体，WinUI 3 原生界面，免费无广告",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "maowei8888",
     "city": null,
     "github": "https://github.com/maowei8888",
