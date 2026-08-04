@@ -1,5 +1,33 @@
 [
   {
+    "author": "gf1023456",
+    "city": null,
+    "github": "https://github.com/gf1023456",
+    "blog": null,
+    "website": null,
+    "name": "AiXian",
+    "url": "https://aixian.online",
+    "description": "在线工具箱，把桌面级工具装进浏览器，PDF 合并、图片去背景、AI 证件照、JSON 格式化、OCR 识别等 50+ 工具，全部本地处理，文件不出设备",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "Eric",
+    "city": "上海",
+    "github": "https://github.com/EricChenBuilds",
+    "blog": null,
+    "website": null,
+    "name": "Gesture Synth",
+    "url": "https://gesturesynth.art/",
+    "description": "通过电脑摄像头捕捉手势，将双手的动作转化为音乐，仅凭双手和摄像头就能演奏",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "好心情营业",
     "city": null,
     "github": "https://github.com/masterliangpeng",
