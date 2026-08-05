@@ -1,5 +1,19 @@
 [
   {
+    "author": "蚊子",
+    "city": null,
+    "github": "https://github.com/coderWenzi",
+    "blog": null,
+    "website": null,
+    "name": "VidLux AI",
+    "url": "https://vidlux.ai/",
+    "description": "AI 视频生成与编辑平台，支持文生视频、图生视频、参考生视频和视频编辑",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "gf1023456",
     "city": null,
     "github": "https://github.com/gf1023456",
