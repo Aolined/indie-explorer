@@ -1,5 +1,47 @@
 [
   {
+    "author": "Miracle",
+    "city": "杭州",
+    "github": "https://github.com/zhoulianbo",
+    "blog": null,
+    "website": null,
+    "name": "ClassroomTimers",
+    "url": "https://classroomtimers.app/",
+    "description": "面向教师和课堂场景的免费在线计时工具，主打大屏投影、全屏显示、无需注册",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "vivililio",
+    "city": "广州",
+    "github": "https://github.com/silankfakentend",
+    "blog": null,
+    "website": null,
+    "name": "CCNavX AI 中转站精选导航",
+    "url": "https://ccnavx.com/zh",
+    "description": "AI 中转站导航，收录可接入的开发者向 AI API 中转服务，方便切换对比",
+    "status": "online",
+    "more_info": "https://github.com/silankfakentend/ai-api-providers",
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "cabbagehao",
+    "city": "北京",
+    "github": "https://github.com/cabbagehao",
+    "blog": null,
+    "website": null,
+    "name": "LiveFaceSwap AI",
+    "url": "https://livefaceswap.ai/zh",
+    "description": "在线实时 AI 换脸工具，可在浏览器中体验换脸、换装和风格重绘；Windows 11 桌面版可通过虚拟摄像头接入直播、会议和视频通话软件",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "ShanLeiGuang",
     "city": "河北",
     "github": "https://github.com/shanleiguang",
