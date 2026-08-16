@@ -1,5 +1,47 @@
 [
   {
+    "author": "iam-tin",
+    "city": null,
+    "github": "https://github.com/iam-tin",
+    "blog": null,
+    "website": null,
+    "name": "CareerAce",
+    "url": "https://careerace.app",
+    "description": "AI 模拟视频面试与求职辅导工具，根据简历与实时回答进行对话提问，并在面试后提供评估报告 — 支持 Web、iOS、Android",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "Imaginify",
+    "city": null,
+    "github": "https://github.com/Imaginify-ai",
+    "blog": null,
+    "website": null,
+    "name": "Imaginify",
+    "url": "https://imaginify.app/",
+    "description": "AI 图像生成与编辑工具，支持文字生图、参考图重绘、局部修改、背景处理和画质增强，提供多种图像模型与最高 4K 输出",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "Imaginify",
+    "city": null,
+    "github": "https://github.com/Imaginify-ai",
+    "blog": null,
+    "website": null,
+    "name": "HomeDesign",
+    "url": "https://homedesigns.app/",
+    "description": "AI 空间与家装设计工具，上传房间实拍、建筑外观或户型图，即可预览室内外装修改造效果，并生成 2D 布局、3D 效果图与 360° 全景",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "Moresyl",
     "city": null,
     "github": "https://github.com/Moresyl",
