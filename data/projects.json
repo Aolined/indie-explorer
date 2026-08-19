@@ -1,5 +1,19 @@
 [
   {
+    "author": "超能刚哥",
+    "city": "长沙",
+    "github": "https://github.com/margox",
+    "blog": null,
+    "website": null,
+    "name": "TempCanvas",
+    "url": "https://tempcanvas.com/",
+    "description": "免费、无需注册的临时在线白板，打开即可快速画图、手写记录和导出 PNG，内容仅保存在浏览器本地",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "ChihooZeng",
     "city": null,
     "github": "https://github.com/ChihooZeng",
