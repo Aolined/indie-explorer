@@ -1,5 +1,33 @@
 [
   {
+    "author": "Jay",
+    "city": null,
+    "github": "https://github.com/chenminjie24",
+    "blog": null,
+    "website": null,
+    "name": "AI 室内设计",
+    "url": "https://ai-room.design/",
+    "description": "上传房间照片生成多种风格的装修设计，装修前即可预览效果",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "zhoujun",
+    "city": "深圳",
+    "github": "https://github.com/zhoujungis",
+    "blog": "https://zhoujungis.github.io/",
+    "website": null,
+    "name": "Halo 音乐",
+    "url": "https://github.com/zhoujungis/halo_music",
+    "description": "在线音乐播放与下载工具，推出 Electron 桌面客户端（Windows）与安卓 APP，统一多平台音乐搜索、播放、歌词和歌单导入，支持离线缓存",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "张波",
     "city": null,
     "github": "https://github.com/Mr-ZhangBo",
