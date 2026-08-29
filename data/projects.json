@@ -1,5 +1,47 @@
 [
   {
+    "author": "mikewaynecn",
+    "city": null,
+    "github": "https://github.com/mikewaynecn-cell",
+    "blog": null,
+    "website": null,
+    "name": "BaziCalculator.ai",
+    "url": "https://www.bazicalculator.ai/",
+    "description": "免费在线八字排盘与解读工具，输入出生日期、时间和城市即可生成四柱、日主、五行与十年大运；按出生地真太阳时校正，时辰不详也可生成三柱命盘，无需注册",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "mikewaynecn",
+    "city": null,
+    "github": "https://github.com/mikewaynecn-cell",
+    "blog": null,
+    "website": null,
+    "name": "Nail Shapes",
+    "url": "https://www.nailshapes.art/",
+    "description": "美甲甲型选择指南，对比杏仁形、椭圆形、棺材形等 8 种甲型的长度、维护难度与视觉效果；回答 3 个问题即可获得适合手型与日常习惯的推荐，无需注册",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "the-beating-light-of-the-nail",
+    "city": null,
+    "github": "https://github.com/the-beating-light-of-the-nail",
+    "blog": null,
+    "website": null,
+    "name": "DeepSeek酱语录",
+    "url": "https://ai-meme.cdqyfdbymn.me/",
+    "description": "DeepSeek 娘化梗图库，鲸鱼娘/AI娘化表情包瀑布流浏览，台词级搜索，一键生成带二维码分享图，持续更新中 - 无需注册，点图即存",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "PhilFan",
     "city": null,
     "github": "https://github.com/Phil-Fan",
