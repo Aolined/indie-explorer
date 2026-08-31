@@ -1,5 +1,47 @@
 [
   {
+    "author": "chenchiwei",
+    "city": null,
+    "github": "https://github.com/chenchiwei",
+    "blog": null,
+    "website": null,
+    "name": "HelloGen",
+    "url": "https://hellogen.ai/",
+    "description": "AI 图片和视频生成工作台，图片免费不限量、无水印、可商用，视频按次计费；助手根据需求自动选模型（Seedream、Nano Banana、GPT Image 2、Veo、Kling、Seedance），生成前先报价，失败不扣费",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "hwlvipone",
+    "city": null,
+    "github": "https://github.com/hwlvipone",
+    "blog": null,
+    "website": null,
+    "name": "AniMot",
+    "url": "https://animot.app/",
+    "description": "一键让照片跳舞，让宠物跳舞",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "leo",
+    "city": "上海",
+    "github": "https://github.com/TangSirOnGit",
+    "blog": null,
+    "website": null,
+    "name": "CardShopDir",
+    "url": "https://cardshopdir.com/",
+    "description": "美国实体卡牌店目录，收录 7700+ 家店铺、覆盖 51 个州，支持按州、城市和游戏筛选，帮玩家找到宝可梦、万智牌、游戏王等卡牌的线下店，每家店附地址、营业时间、支持游戏和评分",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "Hongshiqiang",
     "city": null,
     "github": "https://github.com/Hongshiqiang",
