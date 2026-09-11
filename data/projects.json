@@ -1,5 +1,19 @@
 [
   {
+    "author": "LongAotian",
+    "city": null,
+    "github": "https://github.com/chenchuxin",
+    "blog": null,
+    "website": null,
+    "name": "VoiceCloner",
+    "url": "https://voicecloner.org/",
+    "description": "使用自己的声音，将文字转成语音；每天免费额度，不注册也可使用",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "C2Anime Team",
     "city": null,
     "github": "https://github.com/codaaiteam",
@@ -118,8 +132,8 @@
     "blog": null,
     "website": null,
     "name": "OPC 情报站",
-    "url": "https://wxzhongwang.github.io/opc-radar/",
-    "description": "一人公司（OPC）资讯聚合站，收录 80 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)",
+    "url": "https://opc-radar.pages.dev/",
+    "description": "一人公司（OPC）资讯聚合站，收录 82 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)",
     "status": "online",
     "more_info": null,
     "source": "1c7/chinese-independent-developer",
