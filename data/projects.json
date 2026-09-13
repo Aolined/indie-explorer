@@ -1,5 +1,33 @@
 [
   {
+    "author": "SKYCHENV",
+    "city": null,
+    "github": "https://github.com/SKYCHENV",
+    "blog": null,
+    "website": null,
+    "name": "剪蛋 Jiandan",
+    "url": "https://www.jiandan.qd.je/",
+    "description": "Windows 截图导入辅助工具，将剪贴板图片通过 Ctrl+V 送进剪映专业版，减少另存图片和查找文件；首次需邮箱验证码登录，图片本地处理不上传",
+    "status": "online",
+    "more_info": "https://github.com/SKYCHENV/Jiandan",
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "hwlvipone",
+    "city": null,
+    "github": "https://github.com/hwlvipone",
+    "blog": null,
+    "website": null,
+    "name": "pet memorial portrait",
+    "url": "https://aipetmemorialportrait.com/",
+    "description": "宠物纪念海报生成器",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "littlePig-zzf",
     "city": null,
     "github": "https://github.com/littlePig-zzf",
