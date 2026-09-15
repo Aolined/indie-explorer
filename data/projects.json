@@ -1,5 +1,47 @@
 [
   {
+    "author": "lizhongyue248",
+    "city": null,
+    "github": "https://github.com/lizhongyue248",
+    "blog": null,
+    "website": null,
+    "name": "云播切片",
+    "url": "https://live.zyue.wiki/",
+    "description": "全自动直播录制、归档与切片平台，开播自动录。市面上唯一一款支持录制弹幕、录制礼物特效和直播间界面完整画面的云平台，云端实时监控与分段保存，方便直播复盘、高清 1080p 直播切片与素材剪辑",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "xulovemin",
+    "city": null,
+    "github": "https://github.com/xulovemin",
+    "blog": null,
+    "website": null,
+    "name": "PICWALL",
+    "url": "https://picwall.dpdns.org",
+    "description": "AI 图片与视频提示词库，按作品、媒体类型与风格标签浏览灵感",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "0xhappyboy",
+    "city": null,
+    "github": "https://github.com/0xhappyboy",
+    "blog": null,
+    "website": null,
+    "name": "hippoxOS",
+    "url": "https://hippoxos.vercel.app/",
+    "description": "一款真正意义上的 LLM 操作系统，内置 6 个子系统，统一由自然语言控制：通用对话计算机控制系统、完整的视频编辑系统（自研 NLE 引擎）、金融数据分析系统、地理信息系统、代码编辑系统、3D 沙盒系统 - [GitHub 仓库](https://github.com/HippoxHQ/hippoxOS)",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "fffffrost",
     "city": null,
     "github": "https://github.com/fffffrost",
