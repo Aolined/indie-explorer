@@ -1,5 +1,47 @@
 [
   {
+    "author": "chyf",
+    "city": "广州",
+    "github": "https://github.com/chyf",
+    "blog": null,
+    "website": null,
+    "name": "人人都是OPC",
+    "url": "https://opcwiki.net/",
+    "description": "一人公司（OPC）中文知识库，聚合创业案例、变现教程、工具推荐、政策解读与开源项目",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "Wesley",
+    "city": null,
+    "github": "https://github.com/westlinkin",
+    "blog": null,
+    "website": null,
+    "name": "PlayIQ",
+    "url": "https://theplayiq.com",
+    "description": "用 AI 帮橄榄球教练自动分析比赛录像，识别阵型与跑位，战术板与录像同步播放，自动生成球探报告",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "Selenium39",
+    "city": "广州",
+    "github": "https://github.com/Selenium39",
+    "blog": null,
+    "website": null,
+    "name": "iloveepub",
+    "url": "https://iloveepub.com",
+    "description": "浏览器 EPUB 工具（免费），支持压缩、合并、拆分与转换，文件全部在设备本地处理，绝不上传",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "lizhongyue248",
     "city": null,
     "github": "https://github.com/lizhongyue248",
