@@ -1,5 +1,33 @@
 [
   {
+    "author": "littlePig-zzf",
+    "city": null,
+    "github": "https://github.com/littlePig-zzf",
+    "blog": null,
+    "website": null,
+    "name": "ImageToImageAI",
+    "url": "https://image-to-image-ai.app",
+    "description": "AI 图生图工具，上传图片并用一句话描述修改需求，即可生成产品图、室内设计、人像、贴纸等新图片；支持 GPT Image 2、Nano Banana 2、Nano Banana Pro 模型，中英双语，可免费试用",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "Jonie",
+    "city": null,
+    "github": "https://github.com/estromeglovettgen-coder",
+    "blog": null,
+    "website": null,
+    "name": "Musuw",
+    "url": "https://musuw.com/zh",
+    "description": "AI 知识库，把文档、网页和笔记整理成带引用的问答、Wiki 与知识图谱，方便回到原文核对 - [实际演示](https://musuw.com/zh/guides/citation-checks)",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "Merrick",
     "city": null,
     "github": "https://github.com/shi891018",
