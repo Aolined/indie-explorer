@@ -1,5 +1,33 @@
 [
   {
+    "author": "FlickerMi",
+    "city": null,
+    "github": "https://github.com/FlickerMi",
+    "blog": "https://notemi.cn",
+    "website": null,
+    "name": "MelodyTrace",
+    "url": "https://melodytrace.com/",
+    "description": "MP3 转 MIDI 工具（免费）：把声音，写成可编辑的音符",
+    "status": "online",
+    "more_info": "https://melodytrace.com/zh#features",
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "stormbuf",
+    "city": null,
+    "github": "https://github.com/stormbuf",
+    "blog": null,
+    "website": null,
+    "name": "拼豆猫师傅-拼豆图纸工坊",
+    "url": "https://github.com/user-attachments/assets/bbd960f3-3431-4123-a715-12fb1f29957a",
+    "description": "把照片变成拼豆图纸的微信小程序，自动降色并标出每个格子该用哪个色号，转图在手机本地完成、原图不出设备",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "monsoonw",
     "city": null,
     "github": "https://github.com/monsoonw",
