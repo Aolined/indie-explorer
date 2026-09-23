@@ -1,5 +1,47 @@
 [
   {
+    "author": "Maaaaph",
+    "city": null,
+    "github": "https://github.com/Maaaaph",
+    "blog": null,
+    "website": null,
+    "name": "Instagram Transcript",
+    "url": "https://ins-transcript.com",
+    "description": "Instagram 视频转文字工具，粘贴 Reel / 视频链接即可免注册提取带时间戳的逐字稿，支持 SRT/VTT 字幕导出、多语种翻译与 AI 爆款钩子提炼，内存即时转录不存源视频",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "Linhao Cui",
+    "city": null,
+    "github": "https://github.com/cuilinhao",
+    "blog": null,
+    "website": null,
+    "name": "ShortsMonkey",
+    "url": "https://www.shortsmonkey.com/",
+    "description": "YouTube 爆款选题工具，每天发现低订阅频道中播放量远超订阅量的 Shorts 和长视频，按播放量/订阅数比值筛选，帮助创作者寻找内容灵感",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "夜猫子小强",
+    "city": "XiaoQiangDev",
+    "github": "https://github.com/aks-666888",
+    "blog": null,
+    "website": null,
+    "name": "本地工作控制台 lwc",
+    "url": "https://github.com/aks-666888/local-work-console",
+    "description": "无需联网、无需注册，双击单文件即用的本地待办与计划管理台，数据全留在自己电脑",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "一箭",
     "city": "杭州",
     "github": "https://github.com/whattobuildtoday",
