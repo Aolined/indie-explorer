@@ -1,5 +1,33 @@
 [
   {
+    "author": "WZZNNE",
+    "city": null,
+    "github": "https://github.com/WZZNNE",
+    "blog": null,
+    "website": null,
+    "name": "AI 共振",
+    "url": "https://wzznne.github.io/AI-Resonance/",
+    "description": "每日 AI 雷达，把 GitHub、arXiv、Hacker News、社区讨论和 AI 厂商动态排成五个榜单，评分公式公开可查，多平台同时出现的内容自动归组，打开即读无需注册",
+    "status": "online",
+    "more_info": "https://github.com/WZZNNE/AI-Resonance",
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "hwlvipone",
+    "city": null,
+    "github": "https://github.com/hwlvipone",
+    "blog": null,
+    "website": null,
+    "name": "WearToday",
+    "url": "https://weartoday.io/",
+    "description": "AI 个人造型师，结合当地天气、当天场合和你衣橱里实际有的衣物给出穿搭建议，并记住你的颜色、版型与搭配偏好；网页版免安装，可免费开始使用",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "Yuxino",
     "city": null,
     "github": "https://github.com/yuxino",
