@@ -1,5 +1,117 @@
 [
   {
+    "author": "hwlvipone",
+    "city": null,
+    "github": "https://github.com/hwlvipone",
+    "blog": null,
+    "website": null,
+    "name": "Hookai",
+    "url": "https://hookai.io/",
+    "description": "上传一张或两张人物照片，生成带人声演唱与节拍的竖屏说唱短视频，5-15 秒，无需剪辑；示例免费观看，实际生成需注册和点数",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "fan3cn",
+    "city": null,
+    "github": "https://github.com/fan3cn",
+    "blog": null,
+    "website": null,
+    "name": "BayesChat",
+    "url": "https://bayeschat.xyz",
+    "description": "iPhone / iPad 上的 AI 聊天客户端，自带 API Key 接任意 OpenAI / Anthropic 兼容模型（含本机 Ollama），可挂远程 MCP 服务器调用工具；对话和 Key 只存本机、无需注册，MCP 工具属一次性买断",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "Lucius Miao",
+    "city": null,
+    "github": "https://github.com/suicuLsi",
+    "blog": null,
+    "website": null,
+    "name": "Linger",
+    "url": "https://withlinger.com/zh/",
+    "description": "macOS 本地优先私人灵感库，保存图片、网页出处与自己的笔记，用关键词和筛选找回参考；支持 Apple Silicon，提供 14 天试用，之后一次性购买 - [在线体验](https://withlinger.com/demo/)",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "Wen",
+    "city": null,
+    "github": "https://github.com/coderWenzi",
+    "blog": null,
+    "website": null,
+    "name": "Clarpex",
+    "url": "https://clarpex.ai/",
+    "description": "AI 照片修复工具，上传模糊、低清或老照片即可增强、去模糊、放大与上色，浏览器内完成，每日免费额度无需注册",
+    "status": "online",
+    "more_info": null,
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "phinn",
+    "city": null,
+    "github": "https://github.com/phinn",
+    "blog": null,
+    "website": null,
+    "name": "KinetMagicDisk",
+    "url": "https://apps.apple.com/cn/app/id6813423397",
+    "description": "Mac 磁盘空间清理 App，可视化查看磁盘占用、快速定位大文件并安全清理，本地处理不上传数据",
+    "status": "online",
+    "more_info": "https://apps.apple.com/cn/app/id6813423397",
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "phinn",
+    "city": null,
+    "github": "https://github.com/phinn",
+    "blog": null,
+    "website": null,
+    "name": "KinetFlashFind",
+    "url": "https://apps.apple.com/cn/app/id6808698046",
+    "description": "Mac 文件搜索 App，按名称或内容秒级定位文件并支持预览，本地索引不上传数据",
+    "status": "online",
+    "more_info": "https://apps.apple.com/cn/app/id6808698046",
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "phinn",
+    "city": null,
+    "github": "https://github.com/phinn",
+    "blog": null,
+    "website": null,
+    "name": "DriftDesk",
+    "url": "https://apps.apple.com/cn/app/id6817377455",
+    "description": "Mac 专注氛围声 App，内置雨声、白噪等声景与极简桌面组件，帮助专注与放松",
+    "status": "online",
+    "more_info": "https://apps.apple.com/cn/app/id6817377455",
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
+    "author": "my19940202",
+    "city": "上海",
+    "github": "https://github.com/my19940202",
+    "blog": null,
+    "website": null,
+    "name": "绘页",
+    "url": "https://huiye.org",
+    "description": "生成绘本轮播视频，把文字做成一页一页切换的竖屏故事，30 多种手绘风格 — Web 应用",
+    "status": "online",
+    "more_info": "https://huiye.org/zh/about",
+    "source": "1c7/chinese-independent-developer",
+    "source_url": "https://github.com/1c7/chinese-independent-developer"
+  },
+  {
     "author": "88slash",
     "city": "北京",
     "github": "https://github.com/88slash",
@@ -2072,7 +2184,7 @@
     "source_url": "https://github.com/1c7/chinese-independent-developer"
   },
   {
-    "author": "蚊子",
+    "author": "Wen",
     "city": null,
     "github": "https://github.com/coderWenzi",
     "blog": null,
@@ -6608,7 +6720,7 @@
     "source_url": "https://github.com/1c7/chinese-independent-developer"
   },
   {
-    "author": "coderWenzi",
+    "author": "Wen",
     "city": null,
     "github": "https://github.com/coderWenzi",
     "blog": null,
@@ -8106,7 +8218,7 @@
     "source_url": "https://github.com/1c7/chinese-independent-developer"
   },
   {
-    "author": "蚊子",
+    "author": "Wen",
     "city": null,
     "github": "https://github.com/coderWenzi",
     "blog": null,
@@ -13230,8 +13342,8 @@
     "source_url": "https://github.com/1c7/chinese-independent-developer"
   },
   {
-    "author": "Poge",
-    "city": "广州",
+    "author": "Wen",
+    "city": null,
     "github": "https://github.com/coderWenzi",
     "blog": null,
     "website": null,
